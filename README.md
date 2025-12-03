@@ -73,9 +73,7 @@ EUDIC_API_KEY = "你的欧路 API key"
 MAIMEMO_TOKEN = "你的墨墨 token"
 LARK_WEBHOOK = "你的飞书 webhook 地址"
 
-TXT_PATH = "/home/dzp/eudic-maimomo-words-sync/all_words.txt"
-
-DOWNLOAD_BASE_URL = "https://你的域名或IP/open-download/"
+TXT_PATH = "/your-path/all_words.txt"
 ```
 
 ---
