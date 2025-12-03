@@ -9,5 +9,5 @@ MEMO_NOTEPAD_ID = ""
 # 飞书 Webhook
 FEISHU_WEBHOOK = ""
 
-# 输出 TXT 文件路径（必须绝对路径）
-TXT_OUTPUT_PATH = "/home/dzp/eudic-maimemo-sync/all_words.txt"
+# 输出 TXT 文件路径（建议绝对路径）
+TXT_OUTPUT_PATH = "/your-path/all_words.txt"
